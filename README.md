@@ -1,3 +1,7 @@
+<div align="center">
+<img src="logo.png" alt="FUTURA Logo" width="1000"/>
+</div>
+
 # ⌨️ Logitech G815
 
 A premium web recreation inspired by the iconic Logitech G815 mechanical
